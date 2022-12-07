@@ -4,7 +4,7 @@
 cmake_minimum_required (VERSION 3.8)
 
 # 将源代码添加到此项目的可执行文件。
-add_executable (Helium-Linux "Helium-Linux.cpp" "Helium-Linux.h")
+add_executable (Helium-Linux  "main.cpp")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET Helium-Linux PROPERTY CXX_STANDARD 20)

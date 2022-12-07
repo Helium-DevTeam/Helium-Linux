@@ -1,0 +1,10 @@
+﻿  Performing Custom Build Tools
+   Assembling: D:\Repos\angelscript_sdk_2.36.0\angelscript\source\\as_callfunc_x64_msvc_asm.asm
+  as_atomic.cpp
+  as_builder.cpp
+  as_bytecode.cpp
+  as_callfunc.cpp
+  as_callfunc_arm.cpp
+  as_callfunc_arm64.cpp
+  as_callfunc_mips.cpp
+  as_callfunc_ppc.cpp
